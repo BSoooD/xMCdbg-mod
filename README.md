@@ -1,2 +1,2 @@
-# xMCdbg-mod
+# xMCdbg
 A simple debugger for Minecraft entities, blocks, etc...
